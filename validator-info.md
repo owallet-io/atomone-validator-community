@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+| OWALLET | https://owallet.io | https://x.com/owallet_io | Singapore | phutxorai | phu.tx@orai.io | tranphu.dev | 8CA99B9A5992E791E694FA18FB7A0F210B61C27894EA31D2CF97C77E6C6A5DBB |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
